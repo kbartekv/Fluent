@@ -1,4 +1,5 @@
-name: Release
+name: kbartekv
+
 
 on:
   workflow_dispatch:
